@@ -29,7 +29,7 @@ class _OrderDetailsState extends State<OrderDetails> {
             Spacer(),
             InkWell(
               onTap: (){
-                Navigator.push(context, MaterialPageRoute(builder: (_)=>OrderDetails()));
+                Navigator.push(context, MaterialPageRoute(builder: (_)=>const OrderDetails()));
               },
               child: Container(
                 height: 50,

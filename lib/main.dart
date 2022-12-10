@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_tutorial/cart_screen.dart';
 
-import 'home.dart';
-
 
 
 void main() {
